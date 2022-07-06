@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+ box-sizing: border-box;
+}
+a{
+    text-decoration: none;
+    color: $color-principal;
+    
+
+}
+#portada{
+    background-image: url(https://img.freepik.com/foto-gratis/tablas-madera-textura-fondo_143100-139.jpg?w=2000);
+     background-repeat: no-repeat;
+    background-size: cover;
+}
